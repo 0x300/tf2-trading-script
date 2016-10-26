@@ -1,0 +1,8 @@
+.trade-pending {
+	background: url('img/trade-pending-overlay.png') no-repeat center;
+	background-size: 100%;
+	position: absolute;
+	height: 70px;
+	width: 84px;
+	top: 0;
+}
